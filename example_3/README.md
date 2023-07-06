@@ -1,4 +1,4 @@
-## Prisma simple NodeJS script example (JS)
+## Prisma relationships (TS)
 
 ```
 npm i prisma -D
